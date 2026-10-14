@@ -1,1 +1,1 @@
-{"schema_version": 1, "markets": {"CN": {"phase": "running", "checked_at": "2026-10-14T14:13:37.781989+00:00"}}}
+{"schema_version": 1, "markets": {"CN": {"phase": "success", "checked_at": "2026-10-14T15:05:59.113692+00:00", "published_date": "2026-10-14", "last_success_at": "2026-10-14T15:05:59.113692+00:00"}}}
